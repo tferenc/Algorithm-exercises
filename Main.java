@@ -2,9 +2,7 @@ import com.sun.deploy.util.ArrayUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * Created by Tamás Ferenc on 2017. 09. 15..
